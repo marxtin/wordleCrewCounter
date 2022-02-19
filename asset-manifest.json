@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wordleCrewCounter/static/css/main.d421fbb5.css",
+    "main.js": "/wordleCrewCounter/static/js/main.a56d06ec.js",
+    "static/media/ML.gif": "/wordleCrewCounter/static/media/ML.0b845e2c016f03ac5531.gif",
+    "static/media/eye.png": "/wordleCrewCounter/static/media/eye.7612b64b16abdfedfb2b.png",
+    "static/media/PressStart2P-Regular.woff": "/wordleCrewCounter/static/media/PressStart2P-Regular.d98fe95ff3814170f5d1.woff",
+    "static/media/PressStart2P-Regular.woff2": "/wordleCrewCounter/static/media/PressStart2P-Regular.411d2134ede17f4bc699.woff2",
+    "static/media/UnifrakturCook-Bold.woff": "/wordleCrewCounter/static/media/UnifrakturCook-Bold.4599b7b9f53fdf748c7f.woff",
+    "static/media/Nosifer-Regular.woff": "/wordleCrewCounter/static/media/Nosifer-Regular.c4e38b2bee0aafe96873.woff",
+    "static/media/UnifrakturCook-Bold.woff2": "/wordleCrewCounter/static/media/UnifrakturCook-Bold.8feedc67282afe195d2c.woff2",
+    "static/media/Nosifer-Regular.woff2": "/wordleCrewCounter/static/media/Nosifer-Regular.58f640d2ac4b36c5863c.woff2",
+    "static/media/GermaniaOne-Regular.woff": "/wordleCrewCounter/static/media/GermaniaOne-Regular.9020b10b00cc6a21e478.woff",
+    "static/media/GermaniaOne-Regular.woff2": "/wordleCrewCounter/static/media/GermaniaOne-Regular.f3885b4c00160c5953c0.woff2",
+    "index.html": "/wordleCrewCounter/index.html",
+    "main.d421fbb5.css.map": "/wordleCrewCounter/static/css/main.d421fbb5.css.map",
+    "main.a56d06ec.js.map": "/wordleCrewCounter/static/js/main.a56d06ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d421fbb5.css",
+    "static/js/main.a56d06ec.js"
+  ]
+}
