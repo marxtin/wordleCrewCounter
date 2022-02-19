@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wordleCrewCounter/static/css/main.d421fbb5.css",
+    "main.css": "/wordleCrewCounter/static/css/main.309c43d8.css",
     "main.js": "/wordleCrewCounter/static/js/main.44a45107.js",
     "static/media/ML.gif": "/wordleCrewCounter/static/media/ML.0b845e2c016f03ac5531.gif",
     "static/media/eye.png": "/wordleCrewCounter/static/media/eye.7612b64b16abdfedfb2b.png",
@@ -13,11 +13,11 @@
     "static/media/GermaniaOne-Regular.woff": "/wordleCrewCounter/static/media/GermaniaOne-Regular.9020b10b00cc6a21e478.woff",
     "static/media/GermaniaOne-Regular.woff2": "/wordleCrewCounter/static/media/GermaniaOne-Regular.f3885b4c00160c5953c0.woff2",
     "index.html": "/wordleCrewCounter/index.html",
-    "main.d421fbb5.css.map": "/wordleCrewCounter/static/css/main.d421fbb5.css.map",
+    "main.309c43d8.css.map": "/wordleCrewCounter/static/css/main.309c43d8.css.map",
     "main.44a45107.js.map": "/wordleCrewCounter/static/js/main.44a45107.js.map"
   },
   "entrypoints": [
-    "static/css/main.d421fbb5.css",
+    "static/css/main.309c43d8.css",
     "static/js/main.44a45107.js"
   ]
 }
