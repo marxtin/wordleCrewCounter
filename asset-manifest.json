@@ -1,11 +1,15 @@
 {
   "files": {
     "main.css": "/wordleCrewCounter/static/css/main.309c43d8.css",
-    "main.js": "/wordleCrewCounter/static/js/main.44a45107.js",
+    "main.js": "/wordleCrewCounter/static/js/main.e88d1a99.js",
     "static/media/ML.gif": "/wordleCrewCounter/static/media/ML.0b845e2c016f03ac5531.gif",
     "static/media/eye.png": "/wordleCrewCounter/static/media/eye.7612b64b16abdfedfb2b.png",
+    "static/media/SpaceMono-Regular.woff": "/wordleCrewCounter/static/media/SpaceMono-Regular.1411385ab2d501fe359a.woff",
     "static/media/PressStart2P-Regular.woff": "/wordleCrewCounter/static/media/PressStart2P-Regular.d98fe95ff3814170f5d1.woff",
+    "static/media/Creepster-Regular.woff": "/wordleCrewCounter/static/media/Creepster-Regular.697e2e151520be2a17b2.woff",
+    "static/media/SpaceMono-Regular.woff2": "/wordleCrewCounter/static/media/SpaceMono-Regular.a9ef7ca11966d8c6e4b5.woff2",
     "static/media/PressStart2P-Regular.woff2": "/wordleCrewCounter/static/media/PressStart2P-Regular.411d2134ede17f4bc699.woff2",
+    "static/media/Creepster-Regular.woff2": "/wordleCrewCounter/static/media/Creepster-Regular.e2293eb78cc421b2a2b8.woff2",
     "static/media/UnifrakturCook-Bold.woff": "/wordleCrewCounter/static/media/UnifrakturCook-Bold.4599b7b9f53fdf748c7f.woff",
     "static/media/Nosifer-Regular.woff": "/wordleCrewCounter/static/media/Nosifer-Regular.c4e38b2bee0aafe96873.woff",
     "static/media/UnifrakturCook-Bold.woff2": "/wordleCrewCounter/static/media/UnifrakturCook-Bold.8feedc67282afe195d2c.woff2",
@@ -14,10 +18,10 @@
     "static/media/GermaniaOne-Regular.woff2": "/wordleCrewCounter/static/media/GermaniaOne-Regular.f3885b4c00160c5953c0.woff2",
     "index.html": "/wordleCrewCounter/index.html",
     "main.309c43d8.css.map": "/wordleCrewCounter/static/css/main.309c43d8.css.map",
-    "main.44a45107.js.map": "/wordleCrewCounter/static/js/main.44a45107.js.map"
+    "main.e88d1a99.js.map": "/wordleCrewCounter/static/js/main.e88d1a99.js.map"
   },
   "entrypoints": [
     "static/css/main.309c43d8.css",
-    "static/js/main.44a45107.js"
+    "static/js/main.e88d1a99.js"
   ]
 }
